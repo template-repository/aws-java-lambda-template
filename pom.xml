@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <aws.java.sdk.s3.version>1.11.714</aws.java.sdk.s3.version>
+        <aws.java.sdk.s3.version>1.12.261</aws.java.sdk.s3.version>
         <aws.lambda.java.core.version>1.1.0</aws.lambda.java.core.version>
         <aws.lambda.java.events.version>2.2.7</aws.lambda.java.events.version>
     </properties>
